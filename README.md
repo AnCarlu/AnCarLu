@@ -39,7 +39,7 @@ Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
 
 Siempre estoy aprendiendo cosas nuevas. Actualmente, estoy enfocado en:
 
-- Profundizar en **Jetpack Compose** y el desarrollo moderno de Android.
+- Profundizar en **Jetpack Compose** y **Kotlin Multiplatform** para el desarrollo moderno de Android.
 - Explorar **Kotlin Flow** y **Corrutinas** para manejar operaciones asíncronas.
 - Aprender sobre **arquitecturas limpias** como MVVM y Clean Architecture.
 
