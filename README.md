@@ -12,19 +12,42 @@
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado:
 
-- **Lenguajes de programación**:
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0096C7?style=for-the-badge&logo=kotlin&logoColor=white)
+---
+## 🛠️ Mis Habilidades
+
+Aquí tienes un resumen de las tecnologías y herramientas con las que trabajo:
+
+### 💻 Lenguajes y Frameworks
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0096C7?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Kotlin Flow](https://img.shields.io/badge/Flow-2196F3?style=for-the-badge&logo=reactivex&logoColor=white) ![Coroutines](https://img.shields.io/badge/Coroutines-651FFF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=mockito&logoColor=white)
-- **Desarrollo móvil**: Jetpack Compose, Android SDK.
-- **Bases de datos**: SQL, Room.
-- **Manejo de datos**: JSON, XML.
-- **Control de versiones**: Git, GitHub.
-- **Otras herramientas**: Android Studio, Firebase.
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
+### 🚀 Desarrollo Móvil y Asincronía
+
+* **Android SDK**: Dominio en el desarrollo de aplicaciones nativas para Android.
+* **Jetpack Compose**: Construcción de interfaces de usuario modernas y declarativas.
+* **Kotlin Flow**: Manejo de flujos de datos asíncronos y reactivos.
+* **Coroutines**: Gestión eficiente de la concurrencia en Kotlin.
+
+### 🗄️ Bases de Datos y Manejo de Datos
+
+* **SQL**: Consultas y gestión de bases de datos relacionales.
+* **Room**: Persistencia de datos local en Android.
+* **JSON / XML**: Procesamiento y parseo de datos estructurados.
+
+### 🧪 Testing
+
+* **JUnit**: Creación de tests unitarios para verificar la lógica de la aplicación.
+* **Espresso**: Realización de tests de interfaz de usuario (UI) en Android.
+* **Mockito**: Simulación de dependencias para facilitar el testing.
+
+### 💡 Herramientas y Control de Versiones
+
+* **Git / GitHub**: Control de versiones distribuido y colaboración en proyectos.
+* **Android Studio**: Entorno de desarrollo integrado (IDE) para Android.
+* **Firebase**: Plataforma de desarrollo de aplicaciones móviles y web.
 
 ## Proyectos Destacados 🛠️
 
