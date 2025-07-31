@@ -33,15 +33,15 @@ Aquí tienes un resumen de las tecnologías y herramientas con las que trabajo:
 
 ### 🗄️ Bases de Datos y Manejo de Datos
 
-* **SQL**: Consultas y gestión de bases de datos relacionales.
+* ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 * **Room**: Persistencia de datos local en Android.
 * **JSON / XML**: Procesamiento y parseo de datos estructurados.
 
 ### 🧪 Testing
 
-* **JUnit**: Creación de tests unitarios para verificar la lógica de la aplicación.
-* **Espresso**: Realización de tests de interfaz de usuario (UI) en Android.
-* **Mockito**: Simulación de dependencias para facilitar el testing.
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=mockito&logoColor=white)
 
 ### 💡 Herramientas y Control de Versiones
 
