@@ -12,7 +12,14 @@
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado:
 
-- **Lenguajes de programación**: Java, Kotlin.
+- **Lenguajes de programación**:
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0096C7?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Kotlin Flow](https://img.shields.io/badge/Flow-2196F3?style=for-the-badge&logo=reactivex&logoColor=white) ![Coroutines](https://img.shields.io/badge/Coroutines-651FFF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=mockito&logoColor=white)
 - **Desarrollo móvil**: Jetpack Compose, Android SDK.
 - **Bases de datos**: SQL, Room.
 - **Manejo de datos**: JSON, XML.
