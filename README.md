@@ -53,6 +53,7 @@ Aquí tienes un resumen de las tecnologías y herramientas con las que trabajo:
 
 Aquí tienes algunos de los proyectos en los que he trabajado:
 1. **ToDoApp** : App desarrollada en Kotlin para la creación y eliminación de tareas, utilizando Jetpack Compose y ROOM como base de datos https://github.com/AnCarlu/ToDoApp
+2. **TGCF** : Aplicación Android desarrollada en Kotlin con Jetpack Compose para calcular la puntuación final del Test General de Condición Física del Ejército, adaptándose a diferentes grupos de edad y marcas físicas obtenidas.
 
 ## Mi Situación Actual 🧐
 
