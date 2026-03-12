@@ -70,17 +70,16 @@ Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
 
 Me apasiona la evolución tecnológica y actualmente estoy especializándome en tres pilares clave:
 
-- **Desarrollo Mobile Avanzado**
-Modern Android: Profundizando en Jetpack Compose y Kotlin Multiplatform (KMP) para soluciones multiplataforma eficientes.
-
-Asincronía y Flujos: Especialización en Kotlin Flow y Coroutines para un manejo de datos reactivo y optimizado.
-
-Arquitectura: Implementación de patrones MVVM y Clean Architecture para garantizar código escalable y testeable.
-- **Inteligencia Artificial & Automatización**
-AI Engineering: Explorando técnicas de Prompt Engineering para optimizar la interacción con LLMs.
-
-Backend & Scripting: Iniciando mi trayectoria en Python para el desarrollo de herramientas y automatización.
-- **Ciberseguridad**
-Seguridad Ofensiva/Defensiva: Realizando formación especializada para integrar prácticas de seguridad desde el inicio del desarrollo (DevSecOps).
+- **Desarrollo Mobile Avanzado**:
+  - Modern Android: Profundizando en Jetpack Compose y Kotlin Multiplatform (KMP) para soluciones multiplataforma eficientes.
+  - Asincronía y Flujos: Especialización en Kotlin Flow y Coroutines para un manejo de datos reactivo y optimizado.
+  - Arquitectura: Implementación de patrones MVVM y Clean Architecture para garantizar código escalable y testeable.
+    
+- **Inteligencia Artificial & Automatización**:
+  - AI Engineering: Explorando técnicas de Prompt Engineering para optimizar la interacción con LLMs.
+  - Backend & Scripting: Iniciando mi trayectoria en Python para el desarrollo de herramientas y automatización.
+    
+- **Ciberseguridad**:
+  - Seguridad Ofensiva/Defensiva: Realizando formación especializada para integrar prácticas de seguridad desde el inicio del desarrollo (DevSecOps).
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo móvil, no dudes en contactarme. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! 😊
