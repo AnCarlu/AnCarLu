@@ -66,12 +66,21 @@ Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
 - 📧 **Email**: [Contacta conmigo](mailto:adriancarrerolucha93@gmail.com)
 - 💼 **LinkedIn**: [Visita mi sitio web](https://www.linkedin.com/in/adrian-carrero-lucha-a9b8b8177/)
 
-## Formación en Progreso 📖
+## En Continuo Crecimiento
 
-Siempre estoy aprendiendo cosas nuevas. Actualmente, estoy enfocado en:
+Me apasiona la evolución tecnológica y actualmente estoy especializándome en tres pilares clave:
 
-- Profundizar en **Jetpack Compose** y **Kotlin Multiplatform** para el desarrollo moderno de Android.
-- Explorar **Kotlin Flow** y **Corrutinas** para manejar operaciones asíncronas.
-- Aprender sobre **arquitecturas limpias** como MVVM y Clean Architecture.
+- **Desarrollo Mobile Avanzado**
+Modern Android: Profundizando en Jetpack Compose y Kotlin Multiplatform (KMP) para soluciones multiplataforma eficientes.
+
+Asincronía y Flujos: Especialización en Kotlin Flow y Coroutines para un manejo de datos reactivo y optimizado.
+
+Arquitectura: Implementación de patrones MVVM y Clean Architecture para garantizar código escalable y testeable.
+- **Inteligencia Artificial & Automatización**
+AI Engineering: Explorando técnicas de Prompt Engineering para optimizar la interacción con LLMs.
+
+Backend & Scripting: Iniciando mi trayectoria en Python para el desarrollo de herramientas y automatización.
+- **Ciberseguridad**
+Seguridad Ofensiva/Defensiva: Realizando formación especializada para integrar prácticas de seguridad desde el inicio del desarrollo (DevSecOps).
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo móvil, no dudes en contactarme. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! 😊
